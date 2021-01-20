@@ -1,2 +1,3 @@
-# selftest
-Testing For CI DC 
+# maven-project
+
+Simple Maven Project
